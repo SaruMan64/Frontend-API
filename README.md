@@ -1,2 +1,2 @@
 # Frontend-API
-Atividade do Alpha EdTech.
+Atividade do Alpha EdTech para condições de assincronicidade.
